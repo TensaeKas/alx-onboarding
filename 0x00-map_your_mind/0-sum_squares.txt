@@ -1,0 +1,5 @@
+Pseudo code for accept a number from user and calculate sum of square
+1.	Read num1, num2
+2.	Initialize num, sum
+3.	Repeat till num is less than sum
+4.	Write sum
